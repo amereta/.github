@@ -7,3 +7,4 @@
     <img src="https://github.com/ameretat-project/.github/assets/45015114/c86485d4-6361-4898-9946-f8f74a0973d5" alt="ameretat" />
 </p>
 <h4 align="center">Ameretat is an ancient Persian goddess and one of the Amesha Spenta of long life on earth and growth.</h4>
+<h6 align="center">Art work by <a href="http://www.thaliatook.com/AMGG/ameretat.php">Thalia Took</a></h6>
